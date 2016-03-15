@@ -2,4 +2,4 @@
 Papsi malam web design
 
 
-###Untuk detail lebih lanjut klik http://raizsyah.github.io/Web-Design-Papsi/
+###Untuk detail lebih lanjut klik http://Raizsyah.github.io/Web-Design-Papsi/
